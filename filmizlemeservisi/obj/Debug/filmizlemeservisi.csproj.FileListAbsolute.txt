@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\bin\Debug\filmizlemeservisi.exe.config
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\bin\Debug\filmizlemeservisi.exe
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\bin\Debug\filmizlemeservisi.pdb
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.anasayfa.resources
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.filmekle.resources
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.filmizle.resources
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.Form1.resources
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.Properties.Resources.resources
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.exe
+C:\Users\hasan\source\repos\filmizlemeservisi\filmizlemeservisi\obj\Debug\filmizlemeservisi.pdb
